@@ -17,3 +17,8 @@ OUTPUT :
 (x6, y6)
 (x7, y7)
 (x8, y8)
+
+
+FURTHER WORK : 
+
+This 16 dimension input combined with Building Footprint( Length and Breadth) will be used as a feature vector from regression of building heights.
